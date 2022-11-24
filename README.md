@@ -71,5 +71,5 @@ It is observed that the highest gross income is between the rating of 6 and 7.5
 
 * Microsoft should also venture in running ads and other advertisement medias to increase the popularity of the movies on their movie studio. Ensuring that they provide a good system of movie recommendation to their viewers would have them at the top of the studios.
 
-For more information, click ['here'](https://github.com/Victor-Karanja/victor-dsfpt01-eda-project/blob/master/student.ipynb)
+For more information, click [here](https://github.com/Victor-Karanja/victor-dsfpt01-eda-project/blob/master/student.ipynb)
 Please consider following me on Github for more.
