@@ -29,7 +29,7 @@ In my analysis, some of the visualisations representing the relation of data as 
  ![output](https://user-images.githubusercontent.com/107495711/203859201-d7e6477d-f719-41b2-988e-086c621b6e72.png)
 
 
- The visual above relates the average rating and the popularity of the data for each genre since 2010 to 2018.
+ The visual above relates the average rating and the popularity of the data for each genre for ratings above 8.0 since 2010 to 2018.
 
  ![output3](https://user-images.githubusercontent.com/107495711/203859240-019a7d2b-c87d-4964-8097-c5eb14e1adad.png)
 
