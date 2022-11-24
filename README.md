@@ -26,15 +26,16 @@ The data used is sourced from the following links.
 # Results
 In my analysis, some of the visualisations representing the relation of data as as shown below:
 
- !(photos\output.png)
+ ![output](https://user-images.githubusercontent.com/107495711/203859201-d7e6477d-f719-41b2-988e-086c621b6e72.png)
+
 
  The visual above relates the average rating and the popularity of the data for each genre since 2010 to 2018.
 
- !(photos\output3.png)
+ ![output3](https://user-images.githubusercontent.com/107495711/203859240-019a7d2b-c87d-4964-8097-c5eb14e1adad.png)
 
  The graph shows the popularity performance of the various genres since 2010
 
- !(photos\output2.png)
+ ![output2](https://user-images.githubusercontent.com/107495711/203859264-213b7610-3b18-470b-ba50-02729fd4cb24.png)
 
  The chart gives the relationship or the effect of having original titles on the popularity of each genre.
 
