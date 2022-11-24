@@ -1,6 +1,6 @@
 # Phase 1 Project
 
-![Finally] RT_300EssentialMovies_700X250.jpg
+![RT_300EssentialMovies_700X250](https://user-images.githubusercontent.com/107495711/203859034-03a0293b-47b6-4235-b5bd-96264638b643.jpg)
 
 
 ## Project Overview
@@ -26,15 +26,15 @@ The data used is sourced from the following links.
 # Results
 In my analysis, some of the visualisations representing the relation of data as as shown below:
 
- photos\output.png
+ !(photos\output.png)
 
  The visual above relates the average rating and the popularity of the data for each genre since 2010 to 2018.
 
- photos\output3.png
+ !(photos\output3.png)
 
  The graph shows the popularity performance of the various genres since 2010
 
- photos\output2.png
+ !(photos\output2.png)
 
  The chart gives the relationship or the effect of having original titles on the popularity of each genre.
 
